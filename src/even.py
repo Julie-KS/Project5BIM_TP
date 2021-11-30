@@ -1,3 +1,3 @@
 def is_even(num):
-  return num % 2 == 0
-is_even(10) # True
+    """retourne un booléen"""
+    return num % 2 == 0
