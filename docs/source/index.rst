@@ -15,6 +15,9 @@ Welcome to TP_5BIM's documentation!
 Indices and tables
 ==================
 
+* :ref:`intro`
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
