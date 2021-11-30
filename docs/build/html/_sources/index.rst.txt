@@ -7,17 +7,21 @@ Welcome to TP_5BIM's documentation!
 ===================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   :caption: Table des matières:
 
+   intro
+   modules
 
 
 Indices and tables
 ==================
 
-* :ref:`intro`
+* `Intro`_ 
+* `Even`_ 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
 
-
+.. _Intro: intro.html
+.. _Even: even.html
